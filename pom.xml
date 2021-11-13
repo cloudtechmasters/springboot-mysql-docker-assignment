@@ -8,7 +8,7 @@
   <artifactId>springboot-postgres-docker-assignment</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>springboot-postgres-docker-assignment</name>
+  <name>springboot-mysql-docker-assignment</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
   <parent>
